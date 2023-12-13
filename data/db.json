@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "id": 3,
+      "checked": true,
+      "item": "blueberry"
+    },
+    {
+      "id": 4,
+      "checked": false,
+      "item": "cookies"
+    },
+    {
+      "id": 5,
+      "checked": false,
+      "item": "eggs"
+    },
+    {
+      "id": 6,
+      "checked": false,
+      "item": "cheese"
+    },
+    {
+      "id": 7,
+      "checked": false,
+      "item": "pizza"
+    }
+  ]
+}
